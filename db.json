@@ -1,14 +1,50 @@
+var job = [{
+    "id": "1",
+    "title": "Generalist HR",
+    "dep": "HR Department",
+    "location": "Cochin",
+    "qualifications": [
+        "Graduates or Post Graduates in Human Resource or Equivalent Education"
+    ],
+    "skills_set": [
+        "Relevant 5 years’ experience as a Generalist HR.",
+        "Responsible for all human resource activities to include employment, compensation, labor relations, benefits, and training and development.",
+        "Interview job applicants; review application/resume; evaluate applicant skills and make recommendations regarding applicant's qualifications.",
+        "Develop and maintain relationship with recruitment consultants and other vendors.",
+        "Prepare and maintain company salary structure, job documentation, and job evaluation systems.",
+        "Payroll",
+        "Design and conduct new employee orientations.",
+        "Administer and explain benefits to employees, serve as liaison between employees and insurance carriers.",
+        "Recommend, develop and schedule training and development courses.",
+        "Provide advice, assistance and follow-up on company policies, procedures, and documentation.",
+        "Coordinate the resolution of specific policy-related and procedural problems and inquiries.",
+        "Recommend, develop and maintain human resource data bases, computer software systems, and manual filing systems",
+        "Develop and recommend operating policy and procedural improvements.",
+        "Other duties as assigned.",
+        "Responsible for all Statutory related processes."
+    ],
+    "desirable_skills": []
+},
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    "id": "2",
+    "title": "Database Administrator",
+    "dep": "Database",
+    "location": "Cochin",
+    "qualifications": [
+        "Graduates or Post Graduates in Human Resource or Equivalent Education"
+    ],
+    "skills_set": [
+        "Over 5 years of experience as a SQL Server DBA in a reputed organization.",
+        "MS Azure experience.",
+        "Install and configure databases",
+        "Always on, SQL 2012, 2016 Enterprise edition experience.",
+        "Proven performance tuning and troubleshooting experience.",
+        "Willingness to work under pressure.",
+        "Good team player, willingness to work closely with development team."
+    ],
+    "desirable_skills": [
+        "Server administration",
+        "IIS, .NET exposure",
+        "PowerShell scripting, T-SQL"
+    ]
+}]
